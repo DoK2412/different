@@ -42,10 +42,44 @@
     <Compile Include="block_14\task_7.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="blok_15\task_5_v2.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="blok_15\task_9.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="blok_15\task_1.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="blok_15\task_10.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="blok_15\task_2.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="blok_15\task_3.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="blok_15\task_4.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="blok_15\task_5.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="blok_15\task_6.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="blok_15\task_7.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="blok_15\task_8.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="homework.py" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="block_14\" />
+    <Folder Include="blok_15\" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
   <!-- Uncomment the CoreCompile target to enable the Build command in
