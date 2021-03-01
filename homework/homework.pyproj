@@ -42,37 +42,37 @@
     <Compile Include="block_14\task_7.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="blok_15\task_5_v2.py">
+    <Compile Include="blok_15\Task_5_Cinema\task_5_v2.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="blok_15\task_9.py">
+    <Compile Include="blok_15\Task_9_Word_analysis\task_9.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="blok_15\task_1.py">
+    <Compile Include="blok_15\Task_1_Generating_a_list\task_1.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="blok_15\task_10.py">
+    <Compile Include="blok_15\Task_10_Sorting\task_10.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="blok_15\task_2.py">
+    <Compile Include="blok_15\Task_2_Tournament\task_2.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="blok_15\task_3.py">
+    <Compile Include="blok_15\Task_3_Cells\task_3.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="blok_15\task_4.py">
+    <Compile Include="blok_15\Task_4_Video_Cards\task_4.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="blok_15\task_5.py">
+    <Compile Include="blok_15\Task_5_Cinema\task_5.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="blok_15\task_6.py">
+    <Compile Include="blok_15\Task_6_Word_analysis\task_6.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="blok_15\task_7.py">
+    <Compile Include="blok_15\Task_7_Containers\task_7.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="blok_15\task_8.py">
+    <Compile Include="blok_15\Task_8_Running_the_numbers\task_8.py">
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="homework.py" />
@@ -80,6 +80,16 @@
   <ItemGroup>
     <Folder Include="block_14\" />
     <Folder Include="blok_15\" />
+    <Folder Include="blok_15\Task_10_Sorting\" />
+    <Folder Include="blok_15\Task_9_Word_analysis\" />
+    <Folder Include="blok_15\Task_8_Running_the_numbers\" />
+    <Folder Include="blok_15\Task_7_Containers\" />
+    <Folder Include="blok_15\Task_6_Word_analysis\" />
+    <Folder Include="blok_15\Task_5_Cinema\" />
+    <Folder Include="blok_15\Task_4_Video_Cards\" />
+    <Folder Include="blok_15\Task_3_Cells\" />
+    <Folder Include="blok_15\Task_2_Tournament\" />
+    <Folder Include="blok_15\Task_1_Generating_a_list\" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
   <!-- Uncomment the CoreCompile target to enable the Build command in

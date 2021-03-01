@@ -14,4 +14,3 @@ else:
         if i > new_counter:
             check += 1
     print('Номер, куда встанет новый контейнер: ', check + 1)
-
